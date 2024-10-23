@@ -8,7 +8,7 @@ So, how do we move this data to an analytical environment? That’s where the Da
 
 Our goal is to extract data from the database and transfer it to a Data Lake. To achieve this, we can use several tools, such as DMS (Data Migration Service - AWS), Kafka, Data Factory, Fivetran, among others.
 
-<img src="./images/db_to_datalake.png" alt="Texto Alternativo">
+<img src="./images/db_to_datalake.png" alt="Data migration">
 
 
 
